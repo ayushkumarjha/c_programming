@@ -10,4 +10,5 @@ void main ()
 	sum = a+b;
 	printf("Addition of both no.: %f", sum);
 	return 0;
+	
 }
