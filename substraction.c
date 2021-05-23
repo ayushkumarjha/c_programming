@@ -2,12 +2,12 @@
 #include <conio.h>
 void main()
 {
-	int a , b , sub;
+	float a , b , sub;
 	printf("Please enter the first digit:");
-	scanf("%d" , &a);
+	scanf("%f" , &a);
 	printf("Please enter the second digit:");
-	scanf("%d" , &b);
+	scanf("%f" , &b);
 	sub = a-b;
-	printf("Subtraction of both no.: %d" , sub);
+	printf("Subtraction of both no.: %f" , sub);
 	return 0;
 }
