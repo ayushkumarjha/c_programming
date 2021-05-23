@@ -10,4 +10,5 @@ void main()
 	sub = a-b;
 	printf("Subtraction of both no.: %f" , sub);
 	return 0;
+	
 }
