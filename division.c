@@ -8,6 +8,6 @@ void main()
 	printf("Pleasec enter the second digit:");
 	scanf("%f",&b);
 	div=a/b;
-	printf("Divided Value:%f",div);
+	printf("Divided Value is:%f",a,b,div);
 	return 0;
 }
