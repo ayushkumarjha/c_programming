@@ -16,5 +16,6 @@ else
 	printf("Here's your absoulte value:%d",i);
 	}
 	printf("\nThank you!\nIf u got your result please press enter & u may exit..");	
-getch();
+        getch();
+	return 0;
 }
