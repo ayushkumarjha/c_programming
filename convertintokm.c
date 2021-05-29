@@ -11,5 +11,4 @@ void main()
    printf("\nfoot:%f",f);
    i=f*2.54;
    printf("\ninches:%f",i);
-   return 0;
 }
