@@ -14,8 +14,7 @@ void main()
 	printf("congratulation! Dude you have earn profit");
 	printf("\nHere's your profit amount:%d",profit);
 }
-	else
-	if(loss>profit)
+	else if(loss>profit)
 	{	
 	printf("opps! Dude you have got loss");
 	printf("Here's your loss amount is:%d",loss);
@@ -24,5 +23,4 @@ void main()
    printf("Your Selling & Cost price is Same");
    printf("\nThank you!\nIf u got your result please press enter & u may exit..");	
     getch();
-    return 0;
 }
