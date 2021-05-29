@@ -9,5 +9,4 @@ void main()
 	scanf("%f",&b);
 	div=a/b;
 	printf("Divided Value is:%f",a,b,div);
-	return 0;
 }
