@@ -18,5 +18,4 @@ void main()
 	scanf("%d",&ip);
 	a=(maths+chemistry+physics+hindi+english+ip)*100/500;
 	printf("Here's your percantage result in:%f",a);
-	return 0;
 }
