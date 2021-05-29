@@ -11,5 +11,4 @@ void main()
 	printf("Hey!Dude It's an Sidereal Year");
 	printf("\nThank you!\nIf u got your result please press enter & u may exit..");	
     getch();
-    return 0;
 }
