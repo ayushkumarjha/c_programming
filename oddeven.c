@@ -11,5 +11,4 @@ void main()
 	printf("Boss it's an odd number...");
 	printf("\nIf u got your result please press enter & u may exit..");
 	getch();
-	return 0;
 }
