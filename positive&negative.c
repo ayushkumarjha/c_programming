@@ -11,5 +11,4 @@ void main()
 	printf("Hey Dude! your input is Positive");
 	printf("\nThank you!\nIf u got your result please press enter & u may exit..");	
     getch();
-    return 0;
 }
