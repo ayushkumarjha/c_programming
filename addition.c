@@ -9,6 +9,4 @@ void main ()
 	scanf("%f" , &b);
 	sum = a+b;
 	printf("Addition of both no.: %f", sum);
-	return 0;
-	
 }
