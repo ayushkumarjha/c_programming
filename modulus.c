@@ -9,5 +9,4 @@ void main()
 	scanf("%d",&b);
 	mod = a%b;
 	printf("modulus:%d",mod);
-	return 0;
 }
