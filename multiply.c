@@ -9,5 +9,4 @@ void main()
 	scanf("%f",&b);
 	multiply=a*b;
 	printf("Multiplied Both no.:%f",multiply);
-	return 0;
 }
