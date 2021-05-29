@@ -8,7 +8,5 @@ void main()
 	printf("Please enter the second digit:");
 	scanf("%f" , &b);
 	sub = a-b;
-	printf("Subtraction of both no.: %f" , sub);
-	return 0;
-	
+	printf("Subtraction of both no.: %f" , sub);	
 }
