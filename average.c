@@ -9,7 +9,5 @@ void main()
 	printf("Please enter the second digit:");
 	scanf("%d", &b);
 	avg=(a+b)/2;
-     printf("Here the average value of yiur digit:%f",avg);
-     return 0;
-	
+     printf("Here the average value of yiur digit:%f",avg);	
 }
