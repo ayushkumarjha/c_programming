@@ -15,8 +15,7 @@ int main()
 	printf("Here's the value of  your D:%d",d);
 	if(d==0)
 	printf("\nHey!Dude your equation have only one real root");
-	else
-	if(d>0)
+	else if(d>0)
 	printf("\nHey!Dude your equation have only two real root");
 	else
 	printf("\nHey!Dude your equation have only two complex root");
