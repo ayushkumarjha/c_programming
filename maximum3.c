@@ -12,15 +12,12 @@ void main()
 	scanf("%d",&k);
 	if((i>j) && (i>k))
 	printf("Hey Dude! Your maximum Digit/Number is:%d",i);
-	else
-	if((j>i) && (j>k))
+	else if((j>i) && (j>k))
 	printf("Hey Dude! Your maximum Digit/Number is:%d",j);
-	else
-	if ((k>i) && (k>j))
+	else if ((k>i) && (k>j))
 	printf("Hey Dude! Your maximum Digit/Number is:%d",k);
 	else
 	printf("Hey Dude! Your Digit/Number is Same");
 	printf("\nThank you!\nIf u got your result please press enter & u may exit..");	
     getch();
-    return 0;
 }
